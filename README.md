@@ -5,6 +5,4 @@ a sample of my high school projects
 [Excitebike](https://github.com/Eclynos/School_projects/blob/Excitebike/README.md)
 [Photocheap](https://github.com/Eclynos/School_projects/blob/Photocheap/README.md)
 
-<span  style="color:green">
-  <a href="https://github.com/Eclynos/School_projects/blob/Parralel_worlds/README.md">Parralel_worlds<a>
-    </span>
+<a href="https://github.com/Eclynos/School_projects/blob/Parralel_worlds/README.md">Parralel_worlds</a>
