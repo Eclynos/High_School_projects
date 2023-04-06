@@ -9,6 +9,6 @@ a sample of my high school projects
 
 
 
-[Photocheap](School_projetcs/Photocheap)
+[Photocheap](https://github.com/Eclynos/School_projects/blob/Photocheap/README.md)
 
 
