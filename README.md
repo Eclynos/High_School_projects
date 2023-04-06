@@ -5,7 +5,7 @@ a sample of my high school projects
 
 
 
-[Excitebike](School_projetcs/Excitebike)
+[Excitebike](https://github.com/Eclynos/School_projects/blob/Excitebike/README.md)
 
 
 
