@@ -1,7 +1,7 @@
 # Parralel_worlds
 
 ### Parralel worlds is a survival isometric game coded in python with [pygame](https://www.pygame.org/docs/) library.
-### This game is not over and has no goal yet. I did all the graphics and animations myself.
+### This game is not over and has no goal yet. I did all the graphics and animations myself with [Aseprite](https://www.aseprite.org/).
 ### It's a survival game where you can break obstacles pick them up and build things with them. For now the only craft available is a bridge.
 
 ![simple](https://user-images.githubusercontent.com/121762901/230479735-97997da7-3e7c-4d66-b4ae-a8251f0a9379.png)
