@@ -15,3 +15,4 @@
 ### We can enlarge the image and notice that the number of pixels at the bottom left changes
 ![nicer](https://user-images.githubusercontent.com/121762901/230482040-459ee0bd-a5bc-4e6a-81c9-0a74636333ef.png)
 ### Finally, we apply an effect that increases the sharpness
+### You can test it by downloading the executable version of my software.
