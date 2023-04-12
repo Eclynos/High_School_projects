@@ -269,30 +269,3 @@ class Inventory():
 class Ennemy(pygame.sprite.Sprite):
     def __init__(self):
         pass
-
-
-"""
-            pygame.draw.rect(self.screen, self.color, (658, 30, 48, 480), 4)
-            pygame.draw.rect(self.screen, self.bordercolor, (658, 30, 48, 480), 2)
-            for i in range(1, 10):
-                pygame.draw.line(self.screen, self.bordercolor, (658, 48*i + 26), (704, 48*i + 26), 2)
-            for i, item in enumerate(self.stuff):
-                self.screen.blit(self.items_icons[item], (658, 48 * i + 26))
-                self.screen.blit(textfont.render(str(self.stuff[item]), 1, (255,255,255)), (660, 48*i + 62))
-
-            self.screen.fill(self.bordercolor, (210, 30, 432, 480))
-            pygame.draw.rect(self.screen, self.color, (220, 40, 200, 460), 2)
-            self.screen.blit(nicetextfont.render("Crafting", 5, (255,255,255)), (292, 42))
-            pygame.draw.line(self.screen, self.color, (220, 60), (418, 60), 2)
-            pygame.draw.line(self.screen, self.color, (220, 400), (418, 400), 2)
-            pygame.draw.rect(self.screen, self.color, (220, 400, 90, 28), 2)
-            self.screen.blit(nicetextfont.render(("Components"), 1, (255,255,255)), (224, 404))
-            for component in self.objects_crafting[self.selected_object]:
-                pass
-            for objects in self.objects_crafting:
-                self.screen.blit(self.objects_icons[objects], self.showed_objects[objects])
-            pygame.draw.rect(self.screen, self.color, (self.showed_objects[self.selected_object][0],self.showed_objects[self.selected_object][1], 48, 48), 2)
-            pygame.draw.rect(self.screen, self.color, (210, 30, 432, 480), 4)
-            pygame.draw.rect(self.screen, self.bordercolor, (210, 30, 432, 480), 2)
-            #self.screen.blit(textfont.render(), 1, (255,255,255), ())
-"""
