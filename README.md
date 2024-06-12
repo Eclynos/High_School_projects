@@ -1,7 +1,7 @@
 # High School Projects
 ### a sample of my high school projects
 
-[Parralel_worlds](https://github.com/Eclynos/School_projects/blob/Excitebike/README.md)
+[Parralel_worlds](https://github.com/Eclynos/School_projects/blob/Parralel_worlds/README.md)
 
 
 [Excitebike](https://github.com/Eclynos/School_projects/blob/Excitebike/README.md)
